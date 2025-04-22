@@ -1,11 +1,11 @@
 # Solix Depin BOT
 Solix Depin BOT
 
-Telegram Channel link:(https://t.me/AllAirdropScript)
+Telegram Channel link:(https://t.me/kingelnet)
 
-- Register [Solix Depin](https://dashboard.solixdepin.net/sign-up?ref=lBdxCQDV)
+- Register [Solix Depin](https://dashboard.solixdepin.net/sign-up?ref=ISbcNMQA)
 - Download [Extension](https://chromewebstore.google.com/detail/solix/ocanmekhhffgpiiambnjmlconhhfgolg)
-- Use Code `lBdxCQDV`
+- Use Code `ISbcNMQA`
 
 ## Features
   - Auto Starting Node
@@ -23,12 +23,12 @@ Telegram Channel link:(https://t.me/AllAirdropScript)
    git clone https://github.com/bilalrai12/Solix-Bot.git
    ```
    ```bash
-   cd Solix-Bot
+   cd Solix
    ```
 
-2. **Install Requirements:**
+2. **Install Libraries:**
    ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
+   pip install -r Libraries.txt #or pip3 install -r Libraries.txt
    ```
 
 ## Configuration
@@ -57,14 +57,11 @@ Telegram Channel link:(https://t.me/AllAirdropScript)
 ## Run
 
 ```bash
-python bot.py 
+python YOUSSEF.py 
 ```
 
-## Buy Me a Coffee
-
-- **EVM:** 0x46d4ff7d1b7b55a87b61c314398c6ef7f7791124
 
 Thank you for visiting this repository, don't forget to contribute in the form of followss and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
-**AllAirdropScript**
+**kingelnet**
