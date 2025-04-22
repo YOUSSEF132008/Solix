@@ -83,7 +83,16 @@ class Solix:
         print(
             f"{Fore.CYAN + Style.BRIGHT}[ {datetime.now().astimezone(wib).strftime('%x %X %Z')} ]{Style.RESET_ALL}"
             f"{Fore.WHITE + Style.BRIGHT} | {Style.RESET_ALL}{message}",
-            flush=True
+            flush=True 
+	    def welcome(self):
+        print(
+            f"""
+        {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}Solix - BOT
+            """
+            f"""
+        {Fore.GREEN + Style.BRIGHT} Telegram Channel link :{Fore.YELLOW + Style.BRIGHT} https://t.me/kingelnet
+            """
+	)
         )
     def format_seconds(self, seconds):
         hours, remainder = divmod(seconds, 3600)
