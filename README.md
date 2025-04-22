@@ -20,7 +20,7 @@ Telegram Channel link:(https://t.me/kingelnet)
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/bilalrai12/Solix-Bot.git
+   git clone https://github.com/YOUSSEF132008/Solix.git
    ```
    ```bash
    cd Solix
