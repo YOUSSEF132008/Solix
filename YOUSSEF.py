@@ -19,7 +19,7 @@ from fake_useragent import FakeUserAgent
 from datetime import datetime
 from colorama import *
 import asyncio, time, json, os, pytz
-
+wib = pytz.timezone('Asia/Jakarta')
 
 print(f'''{render('Script', colors=['red', 'yellow'], align='center')}''')
 print(f'''{render('YOUSEF', colors=['green', 'yellow'], align='center')}''')
@@ -56,7 +56,6 @@ print(f"""
 \033[1;37m
 \33[0;43m  Developer channel : https://t.me/kingelnet 👻 \033[0;92m """)
 
-wib = pytz.timezone('Asia/Jakarta')
 
 class Solix:
     def __init__(self) -> None:
