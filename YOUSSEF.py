@@ -9,7 +9,7 @@ try:
     import requests
 except ModuleNotFoundError:
     os.system("pip install requests")
-    from aiohttp import (
+from aiohttp import (
     ClientResponseError,
     ClientSession,
     ClientTimeout
